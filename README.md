@@ -1,7 +1,7 @@
 ## Download
 You can download what is suitable for your operating system below.
 
-**Windows x64**: [Quiet_Forest.zip](https://cdn.discordapp.com/attachments/996117014546481263/997619429179408474/Quiet_Forest.zip)
+**Windows x64**: [Quiet_Forest.zip](https://cdn.discordapp.com/attachments/1001918296251183145/1003904110954807357/Quiet_Forest.zip)
 
 **Windows x32**: [Quiet_Forest.zip](https://cdn.discordapp.com/attachments/996117014546481263/997619429179408474/Quiet_Forest.zip)
 
